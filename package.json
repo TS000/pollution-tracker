@@ -1,0 +1,23 @@
+{
+  "name": "pollution-tracker",
+  "version": "1.0.0",
+  "description": "track pillution in Denver",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TS000/pollution-tracker.git"
+  },
+  "author": "Tyler Snell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TS000/pollution-tracker/issues"
+  },
+  "homepage": "https://github.com/TS000/pollution-tracker#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.0"
+  }
+}
