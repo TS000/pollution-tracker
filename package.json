@@ -18,6 +18,6 @@
   "homepage": "https://github.com/TS000/pollution-tracker#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
